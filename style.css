@@ -46,7 +46,7 @@ header > p {
     margin: auto;
     font-size: 1.2rem;
     max-width: 400px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 
@@ -87,17 +87,17 @@ main {
     font-family: var(--fonte-padrao);
 }
 main h1 {
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-padrao);
     font-size: 1.5em;
     color: var(--cor4);
 }
 main h2 {
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-padrao);
     font-size: 1.3em;
     color: var(--cor2);
 }
 main p {
-    margin: 15px 0;
+    margin: 20px 0;
     text-align: justify;
     text-indent: 40px;
     line-height: 1.5em;
